@@ -20,7 +20,7 @@ We will implement a Rest API using PHP Laravel framework (server side) which wil
 
 <p align="center">
 
- <img src="http://appsgeeks.de/chatRoom-chat-1.png" height="550" width="300">
+ <img src="http://appsgeeks.de/loadMore.gif" height="550" width="300">
  
 </p>
 

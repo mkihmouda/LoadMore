@@ -1,7 +1,7 @@
 # Load More
 Load More in UITableView (Client &amp; Server Side ) in Swift
 
-[![Swift 3.0](https://img.shields.io/badge/Swift-3.2-orange.svg?style=flat)](https://swift.org/)
+[![Swift 3.0](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)](https://swift.org/)
 [![License](https://img.shields.io/cocoapods/l/ParallaxView.svg)](https://github.com/PGSSoft/ParallaxView/LICENSE.md)
 
 
@@ -10,7 +10,7 @@ Call Rest API and retrieve bulk of Data as scrolling in UITableView
  
 ## Requirements
 
-Swift 3.2
+Swift 3.0
 
 ## The Scenario : 
 

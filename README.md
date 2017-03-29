@@ -1,7 +1,7 @@
 # Load More
 Load More in UITableView (Client &amp; Server Side ) in Swift
 
-[![Swift 3.2](https://img.shields.io/badge/Swift-3.2-orange.svg?style=flat)](https://swift.org/)
+[![Swift 2.3](https://img.shields.io/badge/Swift-3.2-orange.svg?style=flat)](https://swift.org/)
 [![License](https://img.shields.io/cocoapods/l/ParallaxView.svg)](https://github.com/PGSSoft/ParallaxView/LICENSE.md)
 
 
